@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+data/*.db
+data/qdrant/
+data/exports/
+data/uploads/*
+!data/uploads/.gitkeep
+*.log
+.env.*
+!.env.example
+data/exports/
