@@ -1,0 +1,5 @@
+﻿Artificial Intelligence
+AI is a branch of computer science.
+
+Machine Learning
+ML is a subset of AI.
